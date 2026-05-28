@@ -1,4 +1,4 @@
-Mobile Sales Dashboard 📱📊
+                                     📱📊 Mobile Sales Dashboard 📱📊
 
 An interactive Power BI dashboard for analyzing mobile sales performance, customer trends, and product insights.
 This project provides dynamic visualizations and KPI tracking to help understand sales growth, brand performance, and market trends.
